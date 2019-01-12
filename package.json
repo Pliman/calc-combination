@@ -1,0 +1,19 @@
+{
+  "name": "calc-combination",
+  "version": "1.0.0",
+  "description": "calc-combination",
+  "main": "calc-combination.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pliman/calc-combination.git"
+  },
+  "author": "Pliman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pliman/calc-combination/issues"
+  },
+  "homepage": "https://github.com/Pliman/calc-combination#readme"
+}
